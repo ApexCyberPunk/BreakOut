@@ -3,6 +3,7 @@
     height: 300px;
     border: solid 3px black;
     position: absolute;
+    margin-top: 80px;
 }
 
 .block {
